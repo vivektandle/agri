@@ -14,10 +14,10 @@ import random
 #load the api keys from the the .env file
 load_dotenv()
 #
-hugging_face = os.getenv('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')
-open_ai_key = os.getenv('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')
+hugging_face = os.getenv('PASTE_YOUR_API_HERE')
+
 #
-openai.api_key = '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'
+openai.api_key = 'PASTE_YOUR_API_HERE'
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'uploads'
