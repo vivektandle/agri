@@ -12,7 +12,7 @@ HOW TO RUN LOCALLY:
  
     4.Run Code : Python app.py
 
-    FOR INTEGRATION OF AUTHENTICION WE NEED TO FOLLOW THE BELOW STEPS:
+    FOR INTEGRATION OF AUTHENTICION WE NEED TO ContinueTHE BELOW STEPS:
 
      5. Run Command: cd llm_chatbot/fire_auth
 
